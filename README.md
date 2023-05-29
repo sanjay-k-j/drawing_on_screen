@@ -13,8 +13,8 @@ you can draw using your finger
 c : for change color 
 e : erase 
 n : new 
-s : stop
-a : start writing again
+q : stop
+w : start writing again
 g : gap 
 esc : exit
 
